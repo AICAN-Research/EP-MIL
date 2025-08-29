@@ -8,7 +8,8 @@ Classification is performed with a simple nearest-neighbor-like approach: a slid
 
 The core idea is to treat the set of all prototype vectors as an "individual" in a population that is evolved over generations to maximize classification accuracy on a validation set.
 
-*A conceptual diagram showing slide features being compared to evolved class prototypes.*
+<img width="1280" height="720" alt="overview" src="https://github.com/user-attachments/assets/36e89eaf-6a1b-4945-aae9-baa3b312fcec" />
+
 
 ## Features
 
