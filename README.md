@@ -1,5 +1,9 @@
 # Evolving Prototype-based Multiple Instance Learning (EP-MIL)
 
+See the paper here: **[Low-Cost Lung Cancer Classification in WSIs Using a
+Foundation Model and Evolving Prototypes]
+(https://github.com/user-attachments/files/24116883/algorithms-18-00769-v2.pdf)** 
+
 ## Overview
 
 **EP-MIL** is a lightweight, computationally efficient framework for Whole Slide Image (WSI) classification. Instead of relying on complex deep learning architectures, this method uses an **Evolutionary Algorithm** to find an optimal set of "prototype" feature vectors for each class.
