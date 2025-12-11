@@ -1,8 +1,8 @@
 # Evolving Prototype-based Multiple Instance Learning (EP-MIL)
 
-See the paper here: **[Low-Cost Lung Cancer Classification in WSIs Using a
+See the paper here: [Low-Cost Lung Cancer Classification in WSIs Using a
 Foundation Model and Evolving Prototypes]
-(https://github.com/user-attachments/files/24116883/algorithms-18-00769-v2.pdf)** 
+(https://github.com/user-attachments/files/24116883/algorithms-18-00769-v2.pdf)
 
 ## Overview
 
